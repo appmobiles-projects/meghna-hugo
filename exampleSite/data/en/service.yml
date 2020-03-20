@@ -23,10 +23,13 @@ service:
     content: Integration of liquidity providers. Cryptocurrencies integration. Conversion
       platform. Monitoring own position with various liquidity providers. System for
       secure storage of cryptocurrency funds.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Mobile applications
+    icon: ti-mobile
+    content: 'iOs, Android. VR & AR on mobile devices and web.  Branded exhibition
+      applications with navigation and receiving product information when hovering
+      camera on it. Applications for remote access and pre-registration. Demo applications.
+
+'
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
