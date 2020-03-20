@@ -11,11 +11,11 @@ skill:
   skill_item:
   - name: Mobile and Desktop Application Development
     percent: 90%
-  - name: VR & AR development
-    percent: 70%
   - name: Fintech software development
     percent: 80%
-  - name: IOS Development
+  - name: VR & AR development
+    percent: 70%
+  - name: Complex software solutions.
     percent: 95%
   - name: Andriod Development
     percent: 75%
