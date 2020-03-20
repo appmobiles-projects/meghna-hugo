@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: 'Tem member 1 '
+    image_webp: images/team/team-1.webp
+    image: images/team/team-1.jpg
+    designation: Design
+    content: Conten
+    social:
+    - icon: ti-twitter
+      link: "#"
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
