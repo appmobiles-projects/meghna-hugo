@@ -20,8 +20,8 @@ team:
     - icon: ti-link
       link: "#"
   - name: 1 channel
-    image_webp: images/client/1kanal.jpg.webp
-    image: images/client/1kanal.jpg
+    image_webp: images/client/1channel.jpg.webp
+    image: images/client/1channel.jpg
     designation: 1 channel
     content: 1 channel
     social:
