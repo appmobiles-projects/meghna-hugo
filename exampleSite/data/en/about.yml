@@ -7,10 +7,10 @@ about:
     title: Cup for the best parser.
     content: Our developers received the prize for creating a parser at FunCorp company
       competition.
-  - icon: ti-ruler-pencil
+  - icon: ti-shield
     title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    content: The developed system for secure storage of cryptocurrency funds was tested
+      and received a PCI DSS certificate of conformity at Hewlet Packard.
   - icon: ti-thought
     title: We're Genius
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
