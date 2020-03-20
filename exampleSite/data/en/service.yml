@@ -3,6 +3,10 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Complex software solutions.
+    icon: ti-rocket
+    content: Applications for the auction for the sale of advertising spots on the
+      Internet (RTB). Lottery applications. Monitoring competitors (the fastest parsers).
   - name: Video applications development
     icon: ti-video-camera
     content: " Live streaming video and timeshift. Webinar applications. Online cinemas
