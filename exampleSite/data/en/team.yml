@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Madnet
+    image_webp: images/client/madnet.jpg.webp
+    image: images/client/madnet.jpg
+    designation: Madnet
+    content: Madnet
+    social:
+    - icon: ti-link
+      link: "#"
   - name: iSaloni
     image_webp: images/client/isaloni.jpg
     image: images/client/isaloni.jpg
