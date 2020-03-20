@@ -4,6 +4,9 @@ about:
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
+    title: "6"
+    content: "6"
+  - icon: ti-ruler-pencil
     title: "5"
     content: "5"
   - icon: ti-ruler-pencil
