@@ -3,71 +3,51 @@ team:
   enable: true
   title: Our Clients
   team_member:
-  - name: BitSpace
-    image_webp: images/bankex.webp
-    image: images/bankex.jpg
-    designation: Design
-    content: Conten
+  - name: Bankex
+    image_webp: images/client/bankex.jpg.webp
+    image: images/client/bankex.jpg.webp
+    designation: Bankex
+    content: Bankex
     social:
     - icon: ti-link
-      link: https://ya.ru
-  - name: Abul Mal Muhit
-    image_webp: images/team/team-1.webp
-    image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+      link: "#"
+  - name: Alpari
+    image_webp: images/client/alpari.jpg.webp
+    image: images/client/alpari.jpg
+    designation: Alpari
+    content: Alpari
     social:
-    - icon: ti-facebook
+    - icon: ti-link
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Frank Miller
-    image_webp: images/team/team-2.webp
-    image: images/team/team-2.jpg
-    designation: Manager
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: 1 channel
+    image_webp: images/client/1kanal.jpg.webp
+    image: images/client/1kanal.jpg
+    designation: 1 channel
+    content: 1 channel
     social:
-    - icon: ti-facebook
+    - icon: ti-link
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Michael Jonson
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Web Developer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Forextime broker
+    image_webp: images/client/fxtm.jpg.webp
+    image: images/client/fxtm.jpg
+    designation: Forextime
+    content: Forextime
     social:
-    - icon: ti-facebook
+    - icon: ti-link
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Mo. Kha. Alamgir
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    designation: SEO Specialist
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+  - name: Cadillac
+    image_webp: images/client/cadillac.jpg.webp
+    image: images/client/cadillac.jpg
+    designation: Cadillac
+    content: Cadillac
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
+    - icon: ti-link
+      link: https://www.cadillac.com/
+  - name: Sberbank
+    image_webp: images/client/sber.jpg.webp
+    image: images/client/sber.jpg.jpg
+    designation: Sberbank
+    content: Sberbank
+    social:
+    - icon: ti-link
       link: "#"
