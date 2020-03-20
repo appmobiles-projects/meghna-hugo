@@ -15,10 +15,9 @@ testimonial:
     image_webp: images/client/musk.webp
     date: Dec 26, 2018
     content: Good toastmaster. And the contests are interesting.
-  - name: Lemos Kail
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+  - name: Vladimir Ulyanov
+    image: images/client/stalin.jpg
+    image_webp: images/client/stalin.webp
     date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    content: The main problem with quotes on the Internet is that people immediately
+      believe in their authenticity.
