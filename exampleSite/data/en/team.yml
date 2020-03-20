@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: BitSpace
+    image_webp: images/client/bitspace.jpg.webp
+    image: images/client/bitspace.jpg
+    designation: BitSpace
+    content: BitSpace
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Betvoyager
     image_webp: images/client/betvoyager.jpg.webp
     image: images/client/betvoyager.jpg
