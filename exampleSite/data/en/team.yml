@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Tvigle
+    image_webp: images/client/tvigle.jpg.webp
+    image: images/client/tvigle.jpg
+    designation: Tvigle
+    content: Tvigle
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Opel
     image_webp: images/client/opel.jpg.webp
     image: images/client/opel.jpg
