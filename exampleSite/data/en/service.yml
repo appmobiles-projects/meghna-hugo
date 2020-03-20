@@ -31,6 +31,7 @@ service:
 
 '
   - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    icon: ti-desktop
+    content: Windows, Linux, MacOS, Docker, Podman. Pre-installed on flash cards and
+      mobile phones cards. Applications for multimedia screens. Applications for huge
+      screens, touch tables, RaspberriPi.
