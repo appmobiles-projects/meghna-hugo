@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Opel
+    image_webp: images/client/opel.jpg.webp
+    image: images/client/opel.jpg
+    designation: Opel
+    content: Opel
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Madnet
     image_webp: images/client/madnet.jpg.webp
     image: images/client/madnet.jpg
