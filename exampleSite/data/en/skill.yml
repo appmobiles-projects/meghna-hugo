@@ -11,7 +11,7 @@ skill:
   skill_item:
   - name: Mobile and Desktop Application Development
     percent: 90%
-  - name: Analysis
+  - name: VR & AR development
     percent: 70%
   - name: Design
     percent: 80%
