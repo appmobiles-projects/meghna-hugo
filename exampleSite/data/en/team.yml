@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Bankex
+    image_webp: images/client/bankex.jpg.webp
+    image: images/client/bankex.jpg.webp
+    designation: Bankex
+    content: Bankex
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Alpari
     image_webp: images/client/alpari.jpg.webp
     image: images/client/alpari.jpg
