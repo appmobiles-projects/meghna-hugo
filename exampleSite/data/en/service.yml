@@ -17,16 +17,6 @@ service:
     icon: ti-video-camera
     content: " Live streaming video and timeshift. Webinar applications. Online cinemas
       server side development. Text, audio and video messengers for real time meetings."
-  - name: Game development
-    icon: ti-game
-    content: 'Game applications for : social networks, desktop computers, young children,
-      gambling.'
-  - name: Social networks
-    icon: ti-instagram
-    content: |-
-      Applications for social networks Facebook, vk.com, ok.ru.
-      Bots for instant messengers and social networks.
-      Sending of advertising messages in instant messengers and social networks.
   - name: Mobile applications
     icon: ti-mobile
     content: 'iOs, Android. VR & AR on mobile devices and web.  Branded exhibition
@@ -39,7 +29,17 @@ service:
     content: Windows, Linux, MacOS, Docker, Podman. Pre-installed on flash cards and
       mobile phones cards. Applications for multimedia screens. Applications for huge
       screens, touch tables, RaspberriPi.
+  - name: Social networks
+    icon: ti-instagram
+    content: |-
+      Applications for social networks Facebook, vk.com, ok.ru.
+      Bots for instant messengers and social networks.
+      Sending of advertising messages in instant messengers and social networks.
   - name: Complex software solutions.
     icon: ti-rocket
     content: Applications for the auction for the sale of advertising spots on the
       Internet (RTB). Lottery applications. Monitoring competitors (the fastest parsers).
+  - name: Game development
+    icon: ti-game
+    content: 'Game applications for : social networks, desktop computers, young children,
+      gambling.'
