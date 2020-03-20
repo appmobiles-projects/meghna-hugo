@@ -13,10 +13,11 @@ service:
       Applications for social networks Facebook, vk.com, ok.ru.
       Bots for instant messengers and social networks.
       Sending of advertising messages in instant messengers and social networks.
-  - name: Media &amp; Advertisement
+  - name: Sites &amp; Portals
     icon: ti-link
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Crowdfunding platforms. Static sites and dynamic sites with server-side
+      pre-rendering. Branded portals for representative offices of large companies.
+      Sites aggregators for real estate agencies.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
