@@ -10,7 +10,7 @@ team:
     content: Conten
     social:
     - icon: ti-link
-      link: "#"
+      link: https://ya.ru
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
