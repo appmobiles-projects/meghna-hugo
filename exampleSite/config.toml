@@ -28,19 +28,19 @@ weight = 5
 [[menu.main]]
 URL = "team"
 name = "Clients"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 4
 [[menu.main]]
 URL = "services"
-name = "Service"
-weight = 3
+name = "Proposal"
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "About Us"
-weight = 1
+weight = 3
 [params]
 author = "Themefisher"
 description = "Full Cycle Software Development Company "
