@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: FXTM
+    image_webp: images/client/fxtm.jpg.webp
+    image: images/client/fxtm.jpg
+    designation: FXTM
+    content: FXTM
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Fotostrana
     image_webp: images/client/fotostrana.jpg.webp
     image: images/client/fotostrana.jpg
