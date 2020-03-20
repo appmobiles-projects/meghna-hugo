@@ -3,10 +3,16 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Complex software solutions.
-    icon: ti-rocket
-    content: Applications for the auction for the sale of advertising spots on the
-      Internet (RTB). Lottery applications. Monitoring competitors (the fastest parsers).
+  - name: Sites &amp; Portals
+    icon: ti-link
+    content: Crowdfunding platforms. Static sites and dynamic sites with server-side
+      pre-rendering. Branded portals for representative offices of large companies.
+      Sites aggregators for real estate agencies.
+  - name: Fintech software development
+    icon: ti-money
+    content: Integration of liquidity providers. Cryptocurrencies integration. Conversion
+      platform. Monitoring own position with various liquidity providers. System for
+      secure storage of cryptocurrency funds.
   - name: Video applications development
     icon: ti-video-camera
     content: " Live streaming video and timeshift. Webinar applications. Online cinemas
@@ -21,16 +27,6 @@ service:
       Applications for social networks Facebook, vk.com, ok.ru.
       Bots for instant messengers and social networks.
       Sending of advertising messages in instant messengers and social networks.
-  - name: Sites &amp; Portals
-    icon: ti-link
-    content: Crowdfunding platforms. Static sites and dynamic sites with server-side
-      pre-rendering. Branded portals for representative offices of large companies.
-      Sites aggregators for real estate agencies.
-  - name: Fintech software development
-    icon: ti-money
-    content: Integration of liquidity providers. Cryptocurrencies integration. Conversion
-      platform. Monitoring own position with various liquidity providers. System for
-      secure storage of cryptocurrency funds.
   - name: Mobile applications
     icon: ti-mobile
     content: 'iOs, Android. VR & AR on mobile devices and web.  Branded exhibition
@@ -38,8 +34,12 @@ service:
       camera on it. Applications for remote access and pre-registration. Demo applications.
 
 '
-  - name: Networking
+  - name: Applications for other platforms
     icon: ti-desktop
     content: Windows, Linux, MacOS, Docker, Podman. Pre-installed on flash cards and
       mobile phones cards. Applications for multimedia screens. Applications for huge
       screens, touch tables, RaspberriPi.
+  - name: Complex software solutions.
+    icon: ti-rocket
+    content: Applications for the auction for the sale of advertising spots on the
+      Internet (RTB). Lottery applications. Monitoring competitors (the fastest parsers).
