@@ -1,14 +1,14 @@
 ---
 about:
   enable: true
-  title: About Us
+  title: Our Achievements.
   about_item:
+  - icon: ti-cup
+    title: Cup for the best parser.
+    content: Our developers received the prize for creating a parser at FunCorp company
+      competition.
   - icon: ti-ruler-pencil
     title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-cup
-    title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
       libero, perspiciatis eos provident laborum eum dignissimos.
   - icon: ti-thought
