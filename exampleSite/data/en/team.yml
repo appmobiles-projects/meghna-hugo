@@ -27,14 +27,6 @@ team:
     social:
     - icon: ti-link
       link: "#"
-  - name: Madnet
-    image_webp: images/client/madnet.jpg.webp
-    image: images/client/madnet.jpg
-    designation: Madnet
-    content: Madnet
-    social:
-    - icon: ti-link
-      link: "#"
   - name: iSaloni
     image_webp: images/client/isaloni.jpg
     image: images/client/isaloni.jpg
@@ -72,14 +64,6 @@ team:
     image: images/client/chevrolet.jpg
     designation: Chevrolet
     content: Chevrolet
-    social:
-    - icon: ti-link
-      link: "#"
-  - name: BitSpace
-    image_webp: images/client/bitspace.jpg.webp
-    image: images/client/bitspace.jpg
-    designation: BitSpace
-    content: BitSpace
     social:
     - icon: ti-link
       link: "#"
