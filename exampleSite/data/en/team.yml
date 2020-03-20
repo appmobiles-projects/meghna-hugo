@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: iSaloni
+    image_webp: images/client/isaloni.jpg
+    image: images/client/isaloni.jpg
+    designation: iSaloni
+    content: iSaloni
+    social:
+    - icon: ti-link
+      link: "#"
   - name: FXTM
     image_webp: images/client/fxtm.jpg.webp
     image: images/client/fxtm.jpg
