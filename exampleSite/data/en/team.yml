@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Webinar
+    image_webp: images/client/webinar.jpg
+    image: images/client/webinar.jpg
+    designation: Webinar
+    content: Webinar
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Tvigle
     image_webp: images/client/tvigle.jpg.webp
     image: images/client/tvigle.jpg
