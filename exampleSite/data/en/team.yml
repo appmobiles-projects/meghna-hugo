@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Chevrolet
+    image_webp: images/client/chevrolet.jpg.webp
+    image: images/client/chevrolet.jpg
+    designation: Chevrolet
+    content: Chevrolet
+    social:
+    - icon: ti-link
+      link: "#"
   - name: BitSpace
     image_webp: images/client/bitspace.jpg.webp
     image: images/client/bitspace.jpg
