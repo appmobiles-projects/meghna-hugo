@@ -5,12 +5,8 @@ service:
   service_item:
   - name: Game development
     icon: ti-game
-    content: |-
-      Game applications for:
-      - social networks
-      - desktop computers
-      - young children
-      - gambling
+    content: 'Game applications for : social networks, desktop computers, young children,
+      gambling.'
   - name: Social networks
     icon: ti-instagram
     content: |-
