@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: Our Achievements.
+  title: About Us.
   about_item:
   - icon: ti-cup
     title: Cup for the best parser.
