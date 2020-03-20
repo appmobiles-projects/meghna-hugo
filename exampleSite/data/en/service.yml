@@ -12,7 +12,7 @@ service:
       - young children
       - gambling
   - name: Social networks
-    icon: ti-layout
+    icon: ti-instagram
     content: |-
       Applications for social networks Facebook, vk.com, ok.ru.
       Bots for instant messengers and social networks.
