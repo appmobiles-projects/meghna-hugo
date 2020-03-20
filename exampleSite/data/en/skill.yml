@@ -9,7 +9,7 @@ skill:
     Now we easily develop complex financial and RTB applications.
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
+  - name: Application Development
     percent: 90%
   - name: Analysis
     percent: 70%
