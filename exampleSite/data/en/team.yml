@@ -3,14 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
-  - name: BitSpace
-    image_webp: images/bankex.webp
-    image: images/bankex.jpg
+  - name: Cadillac
+    image_webp: images/client/cadillac.jpg.webp
+    image: images/client/cadillac.jpg
     designation: Design
     content: Conten
     social:
     - icon: ti-link
-      link: https://ya.ru
+      link: https://www.cadillac.com/
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
