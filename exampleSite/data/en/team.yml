@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Davodoff
+    image_webp: images/client/davidoff.jpg
+    image: images/client/davidoff.jpg
+    designation: Davidoff
+    content: Davidoff
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Chevrolet
     image_webp: images/client/chevrolet.jpg.webp
     image: images/client/chevrolet.jpg
