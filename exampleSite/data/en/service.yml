@@ -3,6 +3,10 @@ service:
   enable: true
   title: Our Services
   service_item:
+  - name: Video applications development
+    icon: ti-video-camera
+    content: " Live streaming video and timeshift. Webinar applications. Online cinemas
+      server side development. Text, audio and video messengers for real time meetings."
   - name: Game development
     icon: ti-game
     content: 'Game applications for : social networks, desktop computers, young children,
