@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Our Clients
   team_member:
   - name: 'Tem member 1 '
     image_webp: images/team/team-1.webp
@@ -9,7 +9,7 @@ team:
     designation: Design
     content: Conten
     social:
-    - icon: ti-twitter
+    - icon: ti-link
       link: "#"
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp
