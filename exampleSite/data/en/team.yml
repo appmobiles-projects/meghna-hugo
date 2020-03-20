@@ -4,8 +4,8 @@ team:
   title: Our Clients
   team_member:
   - name: BitSpace
-    image_webp: images/team/bankex.webp
-    image: images/team/bankex.jpg
+    image_webp: images/bankex.webp
+    image: images/bankex.jpg
     designation: Design
     content: Conten
     social:
