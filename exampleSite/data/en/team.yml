@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Alpari
+    image_webp: images/client/alpari.jpg.webp
+    image: images/client/alpari.jpg
+    designation: Alpari
+    content: Alpari
+    social:
+    - icon: ti-link
+      link: "#"
   - name: 1 channel
     image_webp: images/client/1kanal.jpg.webp
     image: images/client/1kanal.jpg
