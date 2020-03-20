@@ -6,8 +6,8 @@ team:
   - name: Cadillac
     image_webp: images/client/cadillac.jpg.webp
     image: images/client/cadillac.jpg
-    designation: Design
-    content: Conten
+    designation: Cadillac
+    content: Cadillac
     social:
     - icon: ti-link
       link: https://www.cadillac.com/
