@@ -3,7 +3,7 @@ team:
   enable: true
   title: Our Clients
   team_member:
-  - name: 'Tem member 1 '
+  - name: BitSpace
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: Design
