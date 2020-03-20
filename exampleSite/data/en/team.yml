@@ -3,6 +3,14 @@ team:
   enable: true
   title: Our Clients
   team_member:
+  - name: Fotostrana
+    image_webp: images/client/fotostrana.jpg.webp
+    image: images/client/fotostrana.jpg
+    designation: FOTOSTRANA
+    content: Fotostrana
+    social:
+    - icon: ti-link
+      link: "#"
   - name: Davodoff
     image_webp: images/client/davidoff.jpg
     image: images/client/davidoff.jpg
