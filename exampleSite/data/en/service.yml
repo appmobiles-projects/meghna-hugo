@@ -11,10 +11,12 @@ service:
       - desktop computers
       - young children
       - gambling
-  - name: Responsive Design
+  - name: Social networks
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Applications for social networks Facebook, vk.com, ok.ru.
+      Bots for instant messengers and social networks.
+      Sending of advertising messages in instant messengers and social networks.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
