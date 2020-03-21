@@ -3,10 +3,12 @@ title: TimeZero MMORPG
 date: 2018-09-12T06:52:36.000+00:00
 image_webp: "/images/timezero.webp"
 image: "/images/timezero.jpeg"
-author: <a href="https://www.timezero.ru/"></a>
+author: ''
 description: TimeZero MMORPG
 
 ---
+link : \[[timezero.ru](https://www.timezero.ru/ "https://www.timezero.ru/")\]([https://www.timezero.ru/](https://www.timezero.ru/ "https://www.timezero.ru/")).
+
 TimeZero is a multiplayer browser-based online game. It is a shareware project with the purchase of a special game currency - gold coins.
 
 The world of TimeZero is a planet that has survived a terrifying disaster. Nuclear war devastated blooming lands and virtually destroyed civilization. The increased level of radiation caused a huge number of mutations, which is why mutants appeared in the world. In the world of the game, only the settlement New Moscow is sufficiently protected from attacks and radiation. A player can fight both mutants and other players.
