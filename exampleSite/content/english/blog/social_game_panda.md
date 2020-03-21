@@ -1,10 +1,10 @@
 ---
-title: "Crouching Panda, Hidden Elk" game for social networks
+title: '"Crouching Panda, Hidden Elk" game for social networks'
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description : "This is meta description"
+image_webp: "images/blog/blog-post-3.webp"
+image: "images/blog/blog-post-3.jpg"
+author: ''
+description : "Crouching Panda, Hidden Elk game for social networks"
 ---
 
 A kind and funny game in which you can pull the predator's mustache or get through the horns!
