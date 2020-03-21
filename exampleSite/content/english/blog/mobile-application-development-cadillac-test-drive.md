@@ -8,7 +8,7 @@ description: '"Cadillac" Mobile Applications Development'
 
 ---
 link : [AppStore](https://apps.apple.com/us/app/mycadillac/id398605251)
-link : [GooglePlay}](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership&hl=en)
+link : [GooglePlay}](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership)
 
 Development of the Opel mobile app Test drive.
 
