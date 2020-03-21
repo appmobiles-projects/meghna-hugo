@@ -1,35 +1,17 @@
 ---
 about:
   enable: true
-  title: About Us
+  title: About Us.
   about_item:
-  - icon: ti-ruler-pencil
-    title: "6"
-    content: "6"
-  - icon: ti-ruler-pencil
-    title: "5"
-    content: "5"
-  - icon: ti-ruler-pencil
-    title: "4"
-    content: "4"
-  - icon: ti-ruler-pencil
-    title: "3"
-    content: "3"
-  - icon: ti-ruler-pencil
-    title: "2"
-    content: "2"
-  - icon: ti-ruler-pencil
-    title: "1"
-    content: "1"
-  - icon: ti-ruler-pencil
-    title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
   - icon: ti-cup
-    title: We're Professional
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-thought
-    title: We're Genius
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Win with us
+    content: Our developers received the prize for creating a parser at FunCorp company
+      competition.
+  - icon: ti-shield
+    title: Protect with us
+    content: The developed system for secure storage of cryptocurrency funds was tested
+      and received a PCI DSS certificate of conformity at Hewlet Packard.
+  - icon: ti-rocket
+    title: Grow with us
+    content: Every day we devote time to R&D. This allows us to be a modern team of
+      professionals.

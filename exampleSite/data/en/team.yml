@@ -3,11 +3,19 @@ team:
   enable: true
   title: Our Clients
   team_member:
-  - name: Bankex
-    image_webp: images/client/bankex.jpg.webp
-    image: images/client/bankex.jpg.webp
-    designation: Bankex
-    content: Bankex
+  - name: Cadillac
+    image_webp: images/client/cadillac.jpg.webp
+    image: images/client/cadillac.jpg
+    designation: Cadillac
+    content: Cadillac
+    social:
+    - icon: ti-link
+      link: https://www.cadillac.com/
+  - name: iSaloni
+    image_webp: images/client/isaloni.jpg
+    image: images/client/isaloni.jpg
+    designation: iSaloni
+    content: iSaloni
     social:
     - icon: ti-link
       link: "#"
@@ -19,11 +27,51 @@ team:
     social:
     - icon: ti-link
       link: "#"
+  - name: Webinar
+    image_webp: images/client/webinar.jpg
+    image: images/client/webinar.jpg
+    designation: Webinar
+    content: Webinar
+    social:
+    - icon: ti-link
+      link: "#"
+  - name: Opel
+    image_webp: images/client/opel.jpg.webp
+    image: images/client/opel.jpg
+    designation: Opel
+    content: Opel
+    social:
+    - icon: ti-link
+      link: "#"
   - name: 1 channel
-    image_webp: images/client/1kanal.jpg.webp
-    image: images/client/1kanal.jpg
+    image_webp: images/client/1channel.jpg.webp
+    image: images/client/1channel.jpg
     designation: 1 channel
     content: 1 channel
+    social:
+    - icon: ti-link
+      link: "#"
+  - name: FXTM
+    image_webp: images/client/fxtm.jpg.webp
+    image: images/client/fxtm.jpg
+    designation: FXTM
+    content: FXTM
+    social:
+    - icon: ti-link
+      link: "#"
+  - name: Chevrolet
+    image_webp: images/client/chevrolet.jpg.webp
+    image: images/client/chevrolet.jpg
+    designation: Chevrolet
+    content: Chevrolet
+    social:
+    - icon: ti-link
+      link: "#"
+  - name: Betvoyager
+    image_webp: images/client/betvoyager.jpg.webp
+    image: images/client/betvoyager.jpg
+    designation: Betvoyager
+    content: Betvoyager
     social:
     - icon: ti-link
       link: "#"
@@ -35,19 +83,19 @@ team:
     social:
     - icon: ti-link
       link: "#"
-  - name: Cadillac
-    image_webp: images/client/cadillac.jpg.webp
-    image: images/client/cadillac.jpg
-    designation: Cadillac
-    content: Cadillac
-    social:
-    - icon: ti-link
-      link: https://www.cadillac.com/
   - name: Sberbank
     image_webp: images/client/sber.jpg.webp
     image: images/client/sber.jpg.jpg
     designation: Sberbank
     content: Sberbank
+    social:
+    - icon: ti-link
+      link: "#"
+  - name: Bankex
+    image_webp: images/client/bankex.jpg.webp
+    image: images/client/bankex.jpg.webp
+    designation: Bankex
+    content: Bankex
     social:
     - icon: ti-link
       link: "#"

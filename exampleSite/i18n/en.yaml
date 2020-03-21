@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Latest Project
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All Projects
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -15,4 +15,4 @@
 - id: all
   translation: All
 - id: copyright
-  translation: copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved
+  translation: copyright &copy; 2020 [appmobiles](https://appmobiles.ru) all right reserved

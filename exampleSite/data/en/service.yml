@@ -1,34 +1,45 @@
-################################# Service #################################
+---
 service:
-  enable : true
-  title : Our Services
-  service_item :
-    # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  enable: true
+  title: Our Proposal
+  service_item:
+  - name: Sites &amp; Portals
+    icon: ti-link
+    content: Crowdfunding platforms. Static sites and dynamic sites with server-side
+      pre-rendering. Branded portals for representative offices of large companies.
+      Sites aggregators for real estate agencies.
+  - name: Fintech software development
+    icon: ti-money
+    content: Integration of liquidity providers. Cryptocurrencies integration. Conversion
+      platform. Monitoring own position with various liquidity providers. System for
+      secure storage of cryptocurrency funds.
+  - name: Video applications development
+    icon: ti-video-camera
+    content: " Live streaming video and timeshift. Webinar applications. Online cinemas
+      server side development. Text, audio and video messengers for real time meetings."
+  - name: Mobile applications
+    icon: ti-mobile
+    content: 'iOs, Android. VR & AR on mobile devices and web.  Branded exhibition
+      applications with navigation and receiving product information when hovering
+      camera on it. Applications for remote access and pre-registration. Demo applications.
+
+'
+  - name: Applications for other platforms
+    icon: ti-desktop
+    content: Windows, Linux, MacOS, Docker, Podman. Pre-installed on flash cards and
+      mobile phones cards. Applications for multimedia screens. Applications for huge
+      screens, touch tables, RaspberriPi.
+  - name: Social networks
+    icon: ti-instagram
+    content: |-
+      Applications for social networks Facebook, vk.com, ok.ru.
+      Bots for instant messengers and social networks.
+      Sending of advertising messages in instant messengers and social networks.
+  - name: Complex software solutions.
+    icon: ti-rocket
+    content: Applications for the auction for the sale of advertising spots on the
+      Internet (RTB). Lottery applications. Monitoring competitors (the fastest parsers).
+  - name: Game development
+    icon: ti-game
+    content: 'Game applications for : social networks, desktop computers, young children,
+      gambling.'
