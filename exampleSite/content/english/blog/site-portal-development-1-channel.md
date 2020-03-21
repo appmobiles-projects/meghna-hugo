@@ -8,6 +8,8 @@ description : '"1 channel" site portal development'
 ---
 link : [1tv.com]( https://1tv.com/).
 
+Russian television company. Positioned as the main television channel of the country. In addition to the territory of Russia, the broadcast of the First Channel is distributed outside the country. A portal-representative website has been developed for the company, on which all the main directions of the ORT channel are briefly presented in separate sections. The user can familiarize themselves with each and choose the right one for himself and his family.
+
 Representative site on which all sections of the ORT channel are briefly presented in separate sections. The user can familiarize themselves with each and choose the right one for himself and his family.
 
 For a more visual representation of each direction, the following are used: text description text of CEO addressing the audience graphic presentation in the form of logos of photographs of stars, selected graphics according to the meaning of the image providing accompanying videos in each direction. All this is realized thanks to the development of flash applications for ORT.
