@@ -4,7 +4,7 @@ date: 2018-09-12T06:52:36.000+00:00
 image_webp: "/images/timezero.webp"
 image: "/images/timezero.jpeg"
 author: John Doe
-description: This is meta description
+description: TimeZero MMORPG
 
 ---
 TimeZero is a multiplayer browser-based online game. It is a shareware project with the purchase of a special game currency - gold coins.
