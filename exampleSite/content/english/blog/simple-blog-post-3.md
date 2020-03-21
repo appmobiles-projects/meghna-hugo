@@ -3,7 +3,7 @@ title: TimeZero MMORPG
 date: 2018-09-12T06:52:36.000+00:00
 image_webp: "/images/timezero.webp"
 image: "/images/timezero.jpeg"
-author: https://www.timezero.ru/
+author: <a href="https://www.timezero.ru/"></a>
 description: TimeZero MMORPG
 
 ---
