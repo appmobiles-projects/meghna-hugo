@@ -1,5 +1,5 @@
 ---
-title: '"Chevrolet" Mobile Applications Development'
+title: '"Chevrolet" Web Applications for Social Networks'
 image_webp: images/projects/chevi.jpg
 image: images/projects/chevi.jpg
 date: 2018-09-12T08:51:12.000+00:00
