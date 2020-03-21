@@ -6,7 +6,7 @@ image: images/projects/1channel.png
 author: ''
 description : '"1 channel" site portal development'
 ---
-link : [1tvrus.com]( https://eng.1tvrus.com/).
+link : [1tv.com]( https://1tv.com/).
 
 Representative site on which all sections of the ORT channel are briefly presented in separate sections. The user can familiarize themselves with each and choose the right one for himself and his family.
 
