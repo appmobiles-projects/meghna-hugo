@@ -1,5 +1,5 @@
 ---
-title: '"Carusel" games for the youngest children'
+title: "Carusel"
 date: 2018-09-12T12:52:36+06:00
 image_webp: "images/projects/carusel.webp"
 image: "images/projects/carusel.jpg"
