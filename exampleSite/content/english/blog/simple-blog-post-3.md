@@ -7,7 +7,7 @@ author: ''
 description: TimeZero MMORPG
 
 ---
-link : \[[timezero.ru](https://www.timezero.ru/ "https://www.timezero.ru/")\]([https://www.timezero.ru/](https://www.timezero.ru/ "https://www.timezero.ru/")).
+link : [https://www.timezero.ru](https://www.timezero.ru/ "https://www.timezero.ru/") .
 
 TimeZero is a multiplayer browser-based online game. It is a shareware project with the purchase of a special game currency - gold coins.
 
