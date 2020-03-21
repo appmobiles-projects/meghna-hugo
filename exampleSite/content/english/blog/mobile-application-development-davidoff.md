@@ -7,7 +7,7 @@ author: ''
 description: '"Davidoff" Mobile Applications Development'
 
 ---
-link : [Davidoff](https://www.zinodavidoff.com)
+**link** : [Davidoff](https://www.zinodavidoff.com)
 
 Mobile application - development for pr-events.
  IOs platform, iPad device.
