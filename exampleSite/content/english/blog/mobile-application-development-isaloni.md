@@ -1,7 +1,7 @@
 ---
 title: '"iSaloni" Mobile Applications Development'
-image_webp: images/projects/granovit.webp
-image: images/projects/granovit.jpg
+image_webp: images/projects/isaloni.webp
+image: images/projects/isaloni.jpg
 date: 2018-09-12T08:51:12.000+00:00
 author: ''
 description: '"iSaloni" Mobile Applications Development'
