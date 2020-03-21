@@ -15,7 +15,7 @@ You can’t wait to try on the crown of the king of animals? Or become a kung fu
 Join the army of 700,000 fans of the game “Crouching Panda, Hidden Elk”!
 You have to choose a beast-fighter (Crocodile, Panda, Rhinoceros or even Skunk), endow it with special abilities, arm it to the teeth and send it to the Arena, where funny fights with real rivals will take place! Each fight is a bright funny cartoon in which your hero can become a winner!
 
-Game Features:
+Game Features 
 - 15 different animals, from Crocodile to Skunk;
 - More than 60 types of weapons;
 - More than 40 types of armor;
