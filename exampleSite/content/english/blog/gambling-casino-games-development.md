@@ -1,6 +1,6 @@
 ---
 title: '"Betvoyager" gambling games development'
-date: 2018-09-12T12:52:36+06:00
+date: 2018-09-12T06:52:36.000+00:00
 image_webp: images/projects/betvoyager.webp
 image: images/projects/betvoyager.jpg
 author: ''
@@ -10,9 +10,7 @@ link : [betvoyager.com](https://betvoyager.com).
 
 BetVoyager Casino is the only online casino in the world that offers equal chances in all of its games. BetVoyager offers all the most popular casino games, including blackjack, poker, roulette, craps, slot machines and video poker.
 
-BetVoyager Casino is a unique online casino that uses several innovative innovations in online gambling to provide players with many new opportunities, including having flexible control over their gaming account, as well as the ability to independently check the results of casino games.
-
-BetVoyager Casino takes the issue of fair play very seriously. In combination with a random number generator, the casino uses a unique randomness technology based on the SHA-256 algorithm (the Secure Hash Algorithm family). This system gives players a 100% guarantee that the casino cannot influence the gameplay during the game. BetVoyager is the only casino in the world in which every game can be checked by any player in the casino.
+BetVoyager Casino is a unique online casino that uses several innovative innovations in online gambling to provide players with many new opportunities, including having flexible control over their gaming account, as well as the ability to independently check the results of casino games. BetVoyager Casino takes the issue of fair play very seriously. In combination with a random number generator, the casino uses a unique randomness technology based on the SHA-256 algorithm (the Secure Hash Algorithm family). This system gives players a 100% guarantee that the casino cannot influence the gameplay during the game. BetVoyager is the only casino in the world in which every game can be checked by any player in the casino.
 
 BetVoyager casino offer you the following exciting games:
 Roulette - European, American, Multiball, Express, zero - European and American roulette are famous games. Multiball Roulette is based on European Roulette. Express roulette allows players to place bets on special combinations of 3 balls participating in the game. Each type of roulette has a special version. In zero-zero roulette have 100% profit.
