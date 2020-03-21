@@ -1,8 +1,8 @@
 ---
 title: '"Crouching Panda, Hidden Elk" game for social networks'
 date: 2018-09-12T12:52:36+06:00
-image_webp: "images/blog/blog-post-3.webp"
-image: "images/blog/blog-post-3.jpg"
+image_webp: "images/projects/panda.webp"
+image: "images/projects/panda.jpg"
 author: ''
 description : "Crouching Panda, Hidden Elk game for social networks"
 ---

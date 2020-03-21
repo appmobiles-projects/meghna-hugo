@@ -1,11 +1,12 @@
 ---
-title: "Carusel"
+title: '"Carusel" games for the youngest children'
 date: 2018-09-12T12:52:36+06:00
 image_webp: "images/projects/carusel.webp"
 image: "images/projects/carusel.jpg"
 author: ''
 description : "Carusel games for the youngest children"
 ---
+link : [www.karusel-tv.ru]( https://www.karusel-tv.ru/).
 
 Carousel is a Russian federal state international television channel for children and youth. It broadcasts around the clock from Moscow, from the Ostankino television center throughout Russia and in many countries of the world. It is the largest Russian television channel in terms of coverage.
 
