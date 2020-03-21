@@ -6,6 +6,7 @@ image: images/projects/betvoyager.jpg
 author: ''
 description : '"Betvoyager" gambling games development'
 ---
+link : [betvoyager.com](https://betvoyager.com).
 
 BetVoyager Casino is the only online casino in the world that offers equal chances in all of its games. BetVoyager offers all the most popular casino games, including blackjack, poker, roulette, craps, slot machines and video poker.
 
