@@ -1,12 +1,12 @@
 ---
 title: '"Crouching Panda, Hidden Elk" game for social networks'
-date: 2018-09-12T12:52:36+06:00
-image_webp: "images/projects/panda.webp"
-image: "images/projects/panda.jpg"
+date: 2018-09-12T06:52:36.000+00:00
+image_webp: images/projects/panda.webp
+image: images/projects/panda.jpg
 author: ''
-description : "Crouching Panda, Hidden Elk game for social networks"
----
+description: Crouching Panda, Hidden Elk game for social networks
 
+---
 A kind and funny game in which you can pull the predator's mustache or get through the horns!
 Show everyone who is the boss in the forest!
 
@@ -16,11 +16,12 @@ You can’t wait to try on the crown of the king of animals? Or become a kung fu
 Join the army of 700,000 fans of the game “Crouching Panda, Hidden Elk”!
 You have to choose a beast-fighter (Crocodile, Panda, Rhinoceros or even Skunk), endow it with special abilities, arm it to the teeth and send it to the Arena, where funny fights with real rivals will take place! Each fight is a bright funny cartoon in which your hero can become a winner!
 
-Game Features 
-- 15 different animals, from Crocodile to Skunk;
-- More than 60 types of weapons;
-- More than 40 types of armor;
-- Unique instincts and abilities;
-- Elixirs, potions, and magic scrolls;
-- Battles with real rivals;
-- A sea of ​​humor and incredible kung fu fighting techniques.
+**Game Features**
+
+* 15 different animals, from Crocodile to Skunk;
+* More than 60 types of weapons;
+* More than 40 types of armor;
+* Unique instincts and abilities;
+* Elixirs, potions, and magic scrolls;
+* Battles with real rivals;
+* A sea of ​​humor and incredible kung fu fighting techniques.
