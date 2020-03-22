@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Emanuele Orsini
-    image: ''
-    image_webp: ''
+    image: images/client/orsini.jpg
+    image_webp: images/client/orsini.webp
     date: ''
     content: We are glad that we have chosen AppMobiles as a partner. A company is
       a rare example of an ideal partner. Everything is always done on time and clearly.
