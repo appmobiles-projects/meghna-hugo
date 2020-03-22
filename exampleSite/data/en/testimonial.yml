@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Nikolai Dubovoy
-    image: ''
-    image_webp: ''
+    image: images/client/dubovoi.jpg
+    image_webp: images/client/dubovoi.webp
     date: Dec 26, 2018
     content: We always felt the possibility of support during our cooperation and
       after. I especially want to note the professionalism of game developers for
