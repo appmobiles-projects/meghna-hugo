@@ -4,6 +4,14 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Nikolai Dubovoy
+    image: ''
+    image_webp: ''
+    date: Dec 26, 2018
+    content: We always felt the possibility of support during our cooperation and
+      after. I especially want to note the professionalism of game developers for
+      the youngest children. They perfectly understand the physiology and interests
+      of these users.
   - name: Emanuele Orsini
     image: images/client/orsini.jpg
     image_webp: images/client/orsini.webp
