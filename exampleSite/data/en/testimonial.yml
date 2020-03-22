@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Vitali Averin - "Lab24" Managing partner, CEO (production and development)
-    image: ''
-    image_webp: ''
+    image: images/client/averin.webp
+    image_webp: images/client/averin.jpg
     date: Dec 26, 2018
     content: Great! I think the community/investors are still very excited and crave
       to hear about his work. Your qualuity is very undervalued because of the lack
