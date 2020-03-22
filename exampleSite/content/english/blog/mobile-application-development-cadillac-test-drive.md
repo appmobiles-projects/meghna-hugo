@@ -7,18 +7,22 @@ author: ''
 description: '"Cadillac" Mobile Applications Development'
 
 ---
-link : [AppStore](https://apps.apple.com/us/app/mycadillac/id398605251)
-link : [GooglePlay}](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership)
+link : [AppStore](https://apps.apple.com/us/app/mycadillac/id398605251) 
+
+link : [GooglePlay](https://play.google.com/store/apps/details?id=com.gm.cadillac.nomad.ownership)
 
 Development of the Opel mobile app Test drive.
 
-#### Purpose: 
+#### Purpose:
+
 implementation of remote recording on a test drive of users.
 
-#### Technical tools: 
+#### Technical tools:
+
 several iPad devices (up to 100 pieces)
 
-#### Development: 
+#### Development:
+
 development is divided into two parts - development of a web application, development of a mobile application for the iPad.
 
 #### Description of work with the application:
