@@ -11,8 +11,8 @@ testimonial:
     content: We are glad that we have chosen AppMobiles as a partner. A company is
       a rare example of an ideal partner. Everything is always done on time and clearly.
   - name: Vitali Averin - "Lab24" Managing partner, CEO (production and development)
-    image: images/client/averin.webp
-    image_webp: images/client/averin.jpg
+    image: images/client/averin.jpg
+    image_webp: images/client/averin.webp
     date: Dec 26, 2018
     content: Great! I think the community/investors are still very excited and crave
       to hear about his work. Your qualuity is very undervalued because of the lack
