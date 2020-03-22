@@ -1,12 +1,12 @@
 ---
 title: '"Bitspace" fintech cryptocurrency software development'
-date: 2018-09-12T12:52:36+06:00
+date: 2019-11-01T09:52:36+03:00
 image_webp: images/projects/bitspace.webp
 image: images/projects/bitspace.jpg
 author: ''
-description : '"Bitspace" fintech cryptocurrency software development'
----
+description: '"Bitspace" fintech cryptocurrency software development'
 
+---
 link : [Bitspace]( https://www.bitspace.com)
 
 A fully functional conversion platform for cryptocurrencies, including Bitcoin, Ethereum and Ripple.
