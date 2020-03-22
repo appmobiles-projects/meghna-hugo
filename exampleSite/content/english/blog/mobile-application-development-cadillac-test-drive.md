@@ -2,7 +2,7 @@
 title: '"Cadillac" Mobile Applications Development'
 image_webp: images/projects/cadillac.webp
 image: images/projects/cadillac.jpg
-date: 2018-09-12T08:51:12.000+00:00
+date: 2019-11-01T11:51:12+03:00
 author: ''
 description: '"Cadillac" Mobile Applications Development'
 
