@@ -8,6 +8,7 @@ description: '"Devar" Vr & Ar Development'
 
 ---
 link : [Devar](https://devar.ru/)
+link : [AppStore](https://apps.apple.com/ru/app/feeler/id1439052490)
 
 An innovative brand that creates products with additional reality technology.
 The company has developed applications with additional reality for mobile platforms, a system of guaranteed message delivery at the highest possible speed.
