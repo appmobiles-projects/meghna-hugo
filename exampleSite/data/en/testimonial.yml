@@ -16,9 +16,10 @@ testimonial:
     date: Dec 26, 2018
     content: With AppMobiles, we began our journey to Blockchain. They took the first
       steps. They helped us create our first liquidity protocol and earn $ 75,000,000.
-  - name: Vladimir Ulyanov
-    image: images/client/stalin.jpg
-    image_webp: images/client/stalin.webp
+  - name: Alex  Savchenkov - "CityAds" Founder & CEO
+    image: images/client/savchenkov.jpg
+    image_webp: images/client/savchenkov.webp
     date: Dec 26, 2018
-    content: The main problem with quotes on the Internet is that people immediately
-      believe in their authenticity.
+    content: The advertising bidding system developed by AppMobiles developers supports
+      over 1,000,000 connections per second. It turned out to be better and lower
+      in cost than containing own developers.
