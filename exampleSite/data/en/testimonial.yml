@@ -10,11 +10,12 @@ testimonial:
     date: Dec 26, 2018
     content: "The guys are professionals. Licked the site to a golden glow.\nGreat
       job! "
-  - name: Elon Musk
-    image: images/client/musk.jpg
-    image_webp: images/client/musk.webp
+  - name: Igor Khmel
+    image: images/client/khmel.jpg
+    image_webp: images/client/khmel.webp
     date: Dec 26, 2018
-    content: Good toastmaster. And the contests are interesting.
+    content: With AppMobiles, we began our journey to Blockchain. They took the first
+      steps. They helped us create our first liquidity protocol and earn $ 75,000,000.
   - name: Vladimir Ulyanov
     image: images/client/stalin.jpg
     image_webp: images/client/stalin.webp
