@@ -15,10 +15,11 @@ feature:
     icon: ti-widget
     content: Deep learning neural networks and their application for solving CV, NLP
       and reinforced learning tasks.
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Big Data
+    icon: ti-server
+    content: Solving problems associated with the processing of large data arrays.
+      Algorithms for processing and using constantly changing data that arrive at
+      high speed.
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
