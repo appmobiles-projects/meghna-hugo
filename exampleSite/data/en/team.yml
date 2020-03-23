@@ -82,7 +82,7 @@ team:
     content: Bitspace
     social:
     - icon: ti-link
-      link: "#"
+      link: blog/fintech-software-development-bitspace/
   - name: Sberbank
     image_webp: images/client/sber.jpg.webp
     image: images/client/sber.jpg.jpg
