@@ -1,27 +1,25 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: We’re A Digital Design Agency.
+  content: The critical skills you need across your organization to survive and thrive
+    in the era of digital mesh.
+  feature_item:
+  - title: Cloud Computing
+    icon: ti-cloud
+    content: Quick start, launch services in minutes and convenient management, instant
+      scaling and reliable data storage.
+  - title: Easy Customization
+    icon: ti-panel
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - title: SEO Optimized
+    icon: ti-stats-up
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - title: Easy Customization
+    icon: ti-announcement
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
