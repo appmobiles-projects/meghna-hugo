@@ -75,7 +75,7 @@ team:
     social:
     - icon: ti-link
       link: "#"
-  - name: Bitspace
+  - name: Bitspace Ltd
     image_webp: images/client/bitspace.jpg.webp
     image: images/client/bitspace.jpg
     designation: Bitspace
