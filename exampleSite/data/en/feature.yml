@@ -11,10 +11,10 @@ feature:
     icon: ti-cloud
     content: Quick start, launch services in minutes and convenient management, instant
       scaling and reliable data storage.
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Machine Learning
+    icon: ti-widget
+    content: Deep learning neural networks and their application for solving CV, NLP
+      and reinforced learning tasks.
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
