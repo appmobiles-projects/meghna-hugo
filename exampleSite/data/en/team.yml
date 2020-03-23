@@ -75,11 +75,11 @@ team:
     social:
     - icon: ti-link
       link: "#"
-  - name: Forextime broker
-    image_webp: images/client/fxtm.jpg.webp
-    image: images/client/fxtm.jpg
-    designation: Forextime
-    content: Forextime
+  - name: Bitspace
+    image_webp: images/client/bitspace.jpg.webp
+    image: images/client/bitspace.jpg
+    designation: Bitspace
+    content: Bitspace
     social:
     - icon: ti-link
       link: "#"
