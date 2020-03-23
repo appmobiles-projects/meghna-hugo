@@ -8,6 +8,8 @@ contact:
   form_action: "#"
   contact_details:
   - icon: ti-location-pin
+    info: Tula, Mendeleevski, Pionerskaya 1
+  - icon: ti-location-pin
     info: Moscow, Sadovaya-Spasskaya 17/2 - 10
   - icon: ti-mobile
     info: 'Phone: +880-31-000-000'
