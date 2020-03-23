@@ -4,8 +4,8 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: We’re A Digital Design Agency.
-  content: The critical skills you need across your organization to survive and thrive
-    in the era of digital mesh.
+  content: Our skils for the critical skills you need across your organization to
+    survive and thrive in the era of digital mesh.
   feature_item:
   - title: Cloud Computing
     icon: ti-cloud
