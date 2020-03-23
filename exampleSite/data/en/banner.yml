@@ -5,9 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Entrust Digitalization to Professionals
-  content: "A world-class software development company. Our self-serve option is ideal
-    for small Business that want to get start quickly and compleate ASAP.\n\nSince
-    2012. "
+  content: "Our option is ideal for small Business that want to get start quickly
+    and compleate ASAP.\n\nSince 2012. "
   button:
     enable: true
     label: Explore Us
