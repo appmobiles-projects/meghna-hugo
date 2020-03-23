@@ -75,14 +75,14 @@ team:
     social:
     - icon: ti-link
       link: "#"
-  - name: Forextime broker
-    image_webp: images/client/fxtm.jpg.webp
-    image: images/client/fxtm.jpg
-    designation: Forextime
-    content: Forextime
+  - name: Bitspace Ltd
+    image_webp: images/client/bitspace.jpg.webp
+    image: images/client/bitspace.jpg
+    designation: Bitspace
+    content: Bitspace
     social:
     - icon: ti-link
-      link: "#"
+      link: blog/fintech-software-development-bitspace/
   - name: Sberbank
     image_webp: images/client/sber.jpg.webp
     image: images/client/sber.jpg.jpg
