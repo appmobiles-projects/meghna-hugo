@@ -1,7 +1,17 @@
 [build]
   publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --gc --themesDir ../.."
+  command = "cd exampleSite && hugo --gc --minify --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.60.1"
   HUGO_THEME = "repo"
+  
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Content-Security-Policy = "form-action https:"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Strict-Transport-Security = "max-age=2592000"
+    Feature-Policy = "vibrate 'none'; geolocation 'none'; midi 'none'; notifications 'none'; push 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; vibrate 'none'; fullscreen 'none'; payment 'none'"
