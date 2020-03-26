@@ -93,7 +93,7 @@ team:
       link: blog/portable-application-development-sberbank/
   - name: Bankex
     image_webp: images/client/bankex.jpg.webp
-    image: images/client/bankex.jpg.webp
+    image: images/client/bankex.jpg
     designation: Bankex
     content: Bankex
     social:
